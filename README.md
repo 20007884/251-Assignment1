@@ -46,12 +46,4 @@ different colours.
 
 10.Correct use of maven with all external dependencies correctly added
 
-### Second submission
-The following content has been added:   class NotepadTest
- 
-### Third submission
-The following content has been added:   
-12.Check code quality and include reports of the size, complexity and other
-quality metrics. PMD is also added as a maven goal
 
-14.built-in CI with high quality tests
